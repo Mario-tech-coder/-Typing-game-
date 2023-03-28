@@ -1,0 +1,59 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  margin-top: 50px;
+}
+
+.description {
+  font-size: 24px;
+}
+
+.word {
+  font-size: 36px;
+  margin-top: 50px;
+}
+
+.input {
+  font-size: 36px;
+  margin-top: 20px;
+  width: 100%;
+  max-width: 600px;
+  border: none;
+  border-bottom: 3px solid black;
+  text-align: center;
+  outline: none;
+}
+
+.score {
+  font-size: 24px;
+  margin-top: 50px;
+}
+
+.score span {
+  font-weight: bold;
+}
+
+.timer {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.timer span {
+  font-weight: bold;
+}
+
+.start {
+  font-size: 24px;
+  margin-top: 50px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
